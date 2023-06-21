@@ -4,15 +4,14 @@ The purpose of this assignment was to create a random password generator with a 
 ## Installation
 N/A
 ## Credits
-Worked with classmates in cohort on CSS code. 
-HelloCode on Youtube for tutorials for hover/design features. 
-Instructor helped with framework code as well as examples from codes in our UNC working repository. 
-## License
+Web Dev Simplified on Youtube for tutorials for structure of JS file. 
+Instructor and ChatGPT helped to condense code and add extra catch if user did not select enough character types.
 Refer to original LICENSE in repo
 ## Link to Deployed Application
 
 ## Photo
-![Screenshot 2023-06-20 at 10 14 55 PM (2)](https://github.com/kurstiedehaven/secret_name/assets/134163209/602f846c-6313-4d3f-b45a-bc1b449f8ce4)
+
+![Screenshot 2023-06-20 at 10 14 55 PM](https://github.com/kurstiedehaven/secret_name/assets/134163209/5b595a15-d7db-45bf-9985-ee177cb11761)
 
 
 
