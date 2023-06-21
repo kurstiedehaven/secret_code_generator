@@ -12,6 +12,7 @@ Refer to original LICENSE in repo
 ## Link to Deployed Application
 
 ## Photo
+![Screenshot 2023-06-20 at 10 14 55 PM (2)](https://github.com/kurstiedehaven/secret_name/assets/134163209/602f846c-6313-4d3f-b45a-bc1b449f8ce4)
 
 
 
