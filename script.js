@@ -38,7 +38,7 @@ function generatePassword() {
   }).length;
 
   if (selectedTypesCount === 0) {
-    password = "Not enough character types were selected, please try again and select more options.";
+    password = "Error 506: Not enough character types were selected, please try again and select more options.";
   } else {
     // Generate the password
     for (var i = 0; i < keyLength; i++) {
