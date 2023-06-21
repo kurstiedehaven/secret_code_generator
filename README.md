@@ -9,6 +9,8 @@ Instructor and ChatGPT helped to condense code and add extra catch if user did n
 Refer to original LICENSE in repo
 ## Link to Deployed Application
 
+https://kurstiedehaven.github.io/secret_code_generator/
+
 ## Photo
 
 ![Screenshot 2023-06-20 at 10 14 55 PM](https://github.com/kurstiedehaven/secret_name/assets/134163209/5b595a15-d7db-45bf-9985-ee177cb11761)
